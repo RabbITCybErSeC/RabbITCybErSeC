@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**RabbITCybErSeC/RabbITCybErSeC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am just a Cyber Security Enthusiast. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently actively maintaining and working on:
+  - [SOARCA - The Open Source CACAO-based Security Orchestrator! ](https://github.com/COSSAS/SOARCA)
+  - [SOARCA-GUI - front-end for SOARCA](https://github.com/COSSAS/SOARCA-GUI)
+- 👯 I’m involved in:
+  -  [COSSAS](COSSAS - The Community for Open Source Security Automation Software)
+  -  [The Cyber Project](COSSAS - The Community for Open Source Security Automation Software)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily write in:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbITCybErSeC&hide_progress=true)
+
+
