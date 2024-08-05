@@ -12,6 +12,6 @@ I am just a Cyber Security Enthusiast.
 
 I primarily write in:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbITCybErSeC&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbITCybErSeC&hide_progress=true&theme=radical)
 
 
